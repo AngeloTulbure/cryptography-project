@@ -6,7 +6,6 @@ This project implements the **ElGamal cryptosystem** for encryption and decrypti
 
 ## Features
 
-
 - Implementation of the ElGamal cryptosystem for secure communication.
 - Encryption and decryption using **ECB mode**.
 - Key generation, encryption, and decryption functions.
